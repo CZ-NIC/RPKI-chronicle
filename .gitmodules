@@ -1,3 +1,0 @@
-[submodule "RPKI-Sentry-frontend-monitor"]
-	path = RPKI-Sentry-frontend-monitor
-	url = https://github.com/CZ-NIC/RPKI-Sentry-frontend-monitor.git
