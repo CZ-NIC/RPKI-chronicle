@@ -1,0 +1,6 @@
+[submodule "RPKI-chronicle-backend"]
+	path = RPKI-chronicle-backend
+	url = https://github.com/CZ-NIC/RPKI-chronicle-backend.git
+[submodule "RPKI-chronicle-frontend-monitor"]
+	path = RPKI-chronicle-frontend-monitor
+	url = https://github.com/CZ-NIC/RPKI-chronicle-frontend-monitor.git
